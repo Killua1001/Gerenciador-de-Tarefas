@@ -1,7 +1,6 @@
 # Gerenciador-de-Tarefas
 Gerenciador de Tarefas é um aplicativo em Py simples para organizar suas tarefas diárias. Permite adicionar, listar, concluir tarefas e filtrar por prioridade ou categoria. para quem busca uma forma simples de gerenciar atividades e garantir produtividade.
 
-
 Gerenciador de Tarefas
 Este é um simples gerenciador de tarefas que permite adicionar, listar, filtrar e concluir tarefas, tudo através de um menu interativo.
 
